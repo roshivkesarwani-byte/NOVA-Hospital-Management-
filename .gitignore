@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+nova.db
+nova.db-journal
+*.db
+.streamlit/secrets.toml
+.env
+.venv/
+venv/
